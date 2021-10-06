@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# About Me
+## I am Samruddhi Nichal
+###### I am Software Engineer

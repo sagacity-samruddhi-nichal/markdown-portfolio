@@ -1,1 +1,15 @@
-Replace this with a list of your favorite things.
+## 1.Task Management ##
+* Java
+* Spring Boot
+* ReactJS
+* JavaScript
+* Html
+* Css
+
+
+## 2.Hotel Mangement ##
+* html
+* Css
+* javascript
+
+

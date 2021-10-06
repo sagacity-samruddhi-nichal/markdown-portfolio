@@ -1,2 +1,2 @@
 
-__I have worked on two Projects ** Task Mangement ** and ** Hotel Booking **__
+_I have worked on two Projects **Task Mangement** and **Hotel Booking**_
